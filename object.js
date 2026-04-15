@@ -48,7 +48,7 @@ let updatedProfile = {
 
 const user = {
     name: "Esther",
-    password: "12345",
+    password: "12345",  
     isFemale:  true,
     city: "Lagos",
     age: 25   
