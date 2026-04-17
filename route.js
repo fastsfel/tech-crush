@@ -1,1 +1,1 @@
-console.log("This is a route file")
+console.log("This a route file")
